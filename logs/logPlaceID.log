@@ -1,0 +1,78 @@
+[INFO ] 2024-02-04 15:46:49.919 [main] SeleniumTestApplication - Starting SeleniumTestApplication using Java 17.0.3 with PID 29128 (C:\Users\a62kumar\OneDrive - Nokia\Doc\My_Code\WorkSpace_Now_prepareTrip\SeleniumTest\target\classes started by a62kumar in C:\Users\a62kumar\OneDrive - Nokia\Doc\My_Code\WorkSpace_Now_prepareTrip\SeleniumTest)
+[INFO ] 2024-02-04 15:46:49.939 [main] SeleniumTestApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-02-04 15:46:52.356 [main] TomcatWebServer - Tomcat initialized with port 8080 (http)
+[INFO ] 2024-02-04 15:46:52.376 [main] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2024-02-04 15:46:52.383 [main] StandardService - Starting service [Tomcat]
+[INFO ] 2024-02-04 15:46:52.384 [main] StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.18]
+[INFO ] 2024-02-04 15:46:52.512 [main] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2024-02-04 15:46:52.517 [main] ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2477 ms
+[INFO ] 2024-02-04 15:46:53.359 [main] Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2024-02-04 15:46:53.476 [main] TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+[INFO ] 2024-02-04 15:46:53.497 [main] SeleniumTestApplication - Started SeleniumTestApplication in 4.34 seconds (process running for 6.172)
+[INFO ] 2024-02-04 15:47:11.576 [http-nio-8080-exec-1] [/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2024-02-04 15:47:11.577 [http-nio-8080-exec-1] DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2024-02-04 15:47:11.583 [http-nio-8080-exec-1] DispatcherServlet - Completed initialization in 4 ms
+[INFO ] 2024-02-04 15:47:13.347 [http-nio-8080-exec-1] WebDriverManager - Using chromedriver 121.0.6167.85 (resolved driver for Chrome 121)
+[INFO ] 2024-02-04 15:47:13.381 [http-nio-8080-exec-1] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\a62kumar\.cache\selenium\chromedriver\win64\121.0.6167.85\chromedriver.exe
+[WARN ] 2024-02-04 15:47:17.981 [http-nio-8080-exec-1] CdpVersionFinder - Unable to find an exact match for CDP version 121, returning the closest version; found: 118; Please update to a Selenium version that supports CDP version 121
+[INFO ] 2024-02-04 15:47:49.169 [main] SeleniumTestApplication - Starting SeleniumTestApplication using Java 17.0.3 with PID 22116 (C:\Users\a62kumar\OneDrive - Nokia\Doc\My_Code\WorkSpace_Now_prepareTrip\SeleniumTest\target\classes started by a62kumar in C:\Users\a62kumar\OneDrive - Nokia\Doc\My_Code\WorkSpace_Now_prepareTrip\SeleniumTest)
+[INFO ] 2024-02-04 15:47:49.194 [main] SeleniumTestApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-02-04 15:47:51.762 [main] TomcatWebServer - Tomcat initialized with port 8080 (http)
+[INFO ] 2024-02-04 15:47:51.786 [main] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2024-02-04 15:47:51.792 [main] StandardService - Starting service [Tomcat]
+[INFO ] 2024-02-04 15:47:51.793 [main] StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.18]
+[INFO ] 2024-02-04 15:47:51.993 [main] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2024-02-04 15:47:52.001 [main] ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2698 ms
+[INFO ] 2024-02-04 15:47:53.646 [main] Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2024-02-04 15:47:53.732 [main] TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+[INFO ] 2024-02-04 15:47:53.771 [main] SeleniumTestApplication - Started SeleniumTestApplication in 5.349 seconds (process running for 6.98)
+[INFO ] 2024-02-04 15:47:54.630 [http-nio-8080-exec-1] [/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2024-02-04 15:47:54.631 [http-nio-8080-exec-1] DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2024-02-04 15:47:54.634 [http-nio-8080-exec-1] DispatcherServlet - Completed initialization in 2 ms
+[INFO ] 2024-02-04 15:47:55.402 [http-nio-8080-exec-1] WebDriverManager - Using chromedriver 121.0.6167.85 (resolved driver for Chrome 121)
+[INFO ] 2024-02-04 15:47:55.442 [http-nio-8080-exec-1] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\a62kumar\.cache\selenium\chromedriver\win64\121.0.6167.85\chromedriver.exe
+[WARN ] 2024-02-04 15:47:58.464 [http-nio-8080-exec-1] CdpVersionFinder - Unable to find an exact match for CDP version 121, returning the closest version; found: 118; Please update to a Selenium version that supports CDP version 121
+[INFO ] 2024-02-04 15:50:56.408 [main] SeleniumTestApplication - Starting SeleniumTestApplication using Java 17.0.3 with PID 29496 (C:\Users\a62kumar\OneDrive - Nokia\Doc\My_Code\WorkSpace_Now_prepareTrip\SeleniumTest\target\classes started by a62kumar in C:\Users\a62kumar\OneDrive - Nokia\Doc\My_Code\WorkSpace_Now_prepareTrip\SeleniumTest)
+[INFO ] 2024-02-04 15:50:56.431 [main] SeleniumTestApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-02-04 15:50:59.410 [main] TomcatWebServer - Tomcat initialized with port 8080 (http)
+[INFO ] 2024-02-04 15:50:59.477 [main] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2024-02-04 15:50:59.491 [main] StandardService - Starting service [Tomcat]
+[INFO ] 2024-02-04 15:50:59.493 [main] StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.18]
+[INFO ] 2024-02-04 15:50:59.912 [main] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2024-02-04 15:50:59.924 [main] ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3386 ms
+[INFO ] 2024-02-04 15:51:01.482 [main] Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2024-02-04 15:51:01.596 [main] TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+[INFO ] 2024-02-04 15:51:01.651 [main] SeleniumTestApplication - Started SeleniumTestApplication in 6.136 seconds (process running for 7.764)
+[INFO ] 2024-02-04 15:51:02.436 [http-nio-8080-exec-1] [/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2024-02-04 15:51:02.437 [http-nio-8080-exec-1] DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2024-02-04 15:51:02.440 [http-nio-8080-exec-1] DispatcherServlet - Completed initialization in 3 ms
+[INFO ] 2024-02-04 15:51:03.285 [http-nio-8080-exec-1] WebDriverManager - Using chromedriver 121.0.6167.85 (resolved driver for Chrome 121)
+[INFO ] 2024-02-04 15:51:03.339 [http-nio-8080-exec-1] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\a62kumar\.cache\selenium\chromedriver\win64\121.0.6167.85\chromedriver.exe
+[WARN ] 2024-02-04 15:51:05.819 [http-nio-8080-exec-1] CdpVersionFinder - Unable to find an exact match for CDP version 121, returning the closest version; found: 118; Please update to a Selenium version that supports CDP version 121
+[INFO ] 2024-02-04 15:56:16.121 [main] SeleniumTestApplication - Starting SeleniumTestApplication using Java 17.0.3 with PID 31648 (C:\Users\a62kumar\OneDrive - Nokia\Doc\My_Code\WorkSpace_Now_prepareTrip\SeleniumTest\target\classes started by a62kumar in C:\Users\a62kumar\OneDrive - Nokia\Doc\My_Code\WorkSpace_Now_prepareTrip\SeleniumTest)
+[INFO ] 2024-02-04 15:56:16.149 [main] SeleniumTestApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-02-04 15:56:20.274 [main] TomcatWebServer - Tomcat initialized with port 8080 (http)
+[INFO ] 2024-02-04 15:56:20.349 [main] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2024-02-04 15:56:20.364 [main] StandardService - Starting service [Tomcat]
+[INFO ] 2024-02-04 15:56:20.365 [main] StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.18]
+[INFO ] 2024-02-04 15:56:20.534 [main] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2024-02-04 15:56:20.538 [main] ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 4277 ms
+[INFO ] 2024-02-04 15:56:21.442 [main] Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2024-02-04 15:56:21.500 [main] TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+[INFO ] 2024-02-04 15:56:21.520 [main] SeleniumTestApplication - Started SeleniumTestApplication in 6.149 seconds (process running for 7.752)
+[INFO ] 2024-02-04 15:56:21.654 [http-nio-8080-exec-1] [/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2024-02-04 15:56:21.655 [http-nio-8080-exec-1] DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2024-02-04 15:56:21.657 [http-nio-8080-exec-1] DispatcherServlet - Completed initialization in 2 ms
+[INFO ] 2024-02-04 15:56:22.309 [http-nio-8080-exec-1] WebDriverManager - Using chromedriver 121.0.6167.85 (resolved driver for Chrome 121)
+[INFO ] 2024-02-04 15:56:22.356 [http-nio-8080-exec-1] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\a62kumar\.cache\selenium\chromedriver\win64\121.0.6167.85\chromedriver.exe
+[WARN ] 2024-02-04 15:56:25.173 [http-nio-8080-exec-1] CdpVersionFinder - Unable to find an exact match for CDP version 121, returning the closest version; found: 118; Please update to a Selenium version that supports CDP version 121
+[INFO ] 2024-02-04 15:58:22.031 [main] AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.trip.prepare.SeleniumTestApplicationTests]: SeleniumTestApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+[INFO ] 2024-02-04 15:58:22.347 [main] SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.trip.prepare.SeleniumTestApplication for test class com.trip.prepare.SeleniumTestApplicationTests
+[INFO ] 2024-02-04 15:58:23.180 [main] SeleniumTestApplicationTests - Starting SeleniumTestApplicationTests using Java 17.0.3 with PID 17700 (started by a62kumar in C:\Users\a62kumar\OneDrive - Nokia\Doc\My_Code\WorkSpace_Now_prepareTrip\SeleniumTest)
+[INFO ] 2024-02-04 15:58:23.190 [main] SeleniumTestApplicationTests - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-02-04 15:58:25.877 [main] SeleniumTestApplicationTests - Started SeleniumTestApplicationTests in 3.224 seconds (process running for 7.07)
+[INFO ] 2024-02-04 16:06:06.181 [main] AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.trip.prepare.SeleniumTestApplicationTests]: SeleniumTestApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+[INFO ] 2024-02-04 16:06:06.592 [main] SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.trip.prepare.SeleniumTestApplication for test class com.trip.prepare.SeleniumTestApplicationTests
+[INFO ] 2024-02-04 16:06:07.613 [main] SeleniumTestApplicationTests - Starting SeleniumTestApplicationTests using Java 17.0.3 with PID 12188 (started by a62kumar in C:\Users\a62kumar\OneDrive - Nokia\Doc\My_Code\WorkSpace_Now_prepareTrip\SeleniumTest)
+[INFO ] 2024-02-04 16:06:07.622 [main] SeleniumTestApplicationTests - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-02-04 16:06:10.807 [main] SeleniumTestApplicationTests - Started SeleniumTestApplicationTests in 3.731 seconds (process running for 7.669)
