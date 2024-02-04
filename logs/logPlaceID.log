@@ -76,3 +76,8 @@
 [INFO ] 2024-02-04 16:06:07.613 [main] SeleniumTestApplicationTests - Starting SeleniumTestApplicationTests using Java 17.0.3 with PID 12188 (started by a62kumar in C:\Users\a62kumar\OneDrive - Nokia\Doc\My_Code\WorkSpace_Now_prepareTrip\SeleniumTest)
 [INFO ] 2024-02-04 16:06:07.622 [main] SeleniumTestApplicationTests - No active profile set, falling back to 1 default profile: "default"
 [INFO ] 2024-02-04 16:06:10.807 [main] SeleniumTestApplicationTests - Started SeleniumTestApplicationTests in 3.731 seconds (process running for 7.669)
+[INFO ] 2024-02-04 16:57:33.439 [main] AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.trip.prepare.SeleniumTestApplicationTests]: SeleniumTestApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+[INFO ] 2024-02-04 16:57:33.952 [main] SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.trip.prepare.SeleniumTestApplication for test class com.trip.prepare.SeleniumTestApplicationTests
+[INFO ] 2024-02-04 16:57:35.335 [main] SeleniumTestApplicationTests - Starting SeleniumTestApplicationTests using Java 17.0.3 with PID 31272 (started by a62kumar in C:\Users\a62kumar\OneDrive - Nokia\Doc\My_Code\WorkSpace_Now_prepareTrip\SeleniumTest)
+[INFO ] 2024-02-04 16:57:35.346 [main] SeleniumTestApplicationTests - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-02-04 16:57:41.427 [main] SeleniumTestApplicationTests - Started SeleniumTestApplicationTests in 6.986 seconds (process running for 13.343)
